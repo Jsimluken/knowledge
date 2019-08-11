@@ -10,4 +10,4 @@
 
 ## Dev tools
 - [Ganache](https://github.com/trufflesuite/ganache-cli)
-Simulate etehreum network!!
+Simulate Ethereum network!!

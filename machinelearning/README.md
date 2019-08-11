@@ -13,6 +13,7 @@
 ## Conferences
 ### Artificial Intelligence
 - NeurIPS
+- AAAI
 ### Vison
 - CVPR
 - ICDAR

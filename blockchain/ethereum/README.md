@@ -3,6 +3,7 @@
 ## Reference
 - [YellowPaper](https://ethereum.github.io/yellowpaper/paper.pdf) It's important to check the primary source.
 - [How does Ethereum work(medium)](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+- [EIP list](http://eips.ethereum.org/)
 
 ## Implementation
 ### Wallet
@@ -11,3 +12,25 @@
 ## Dev tools
 - [Ganache](https://github.com/trufflesuite/ganache-cli)
 Simulate Ethereum network!!
+
+## EIP!!
+### Token
+- ERC20: ERC-20 Token Standard
+- ERC721: ERC-721 Non-Fungible Token Standard
+- ERC777: ERC777 Token Standard
+- ERC823: Token Exchange Standard
+- ERC884: DGCL Token
+- ERC902: Token Validation
+- ERC918: Mineable Token Standard
+- ERC998: ERC-998 Composable Non-Fungible Token Standard
+- ERC1047: Token Metadata JSON Schema
+- ERC1080: Recoverable Token
+- ERC1132: Extending ERC20 with token locking capability
+- ERC1155: ERC-1155 Multi Token Standard
+- ERC1175: Wallet & shop standard for all tokens (erc20)
+- ERC1178: Multi-class Token Standard
+- ERC1203: ERC-1203 Multi-Class Token Standard (ERC-20 Extension)
+- ERC1261: Membership Verification Token (MVT)
+- ERC1462: Base Security Token
+- ERC1523: Standard for Insurance Policies as ERC-721 Non Fungible Tokens
+- ERC1948: Non-fungible Data Token

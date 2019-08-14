@@ -13,7 +13,7 @@
 
 ### Music
 - [Wave-U-Net](https://github.com/f90/Wave-U-Net): Source Separation!!
-- [AMT-Wavenet](https://github.com/lmartak/amt-wavenet)Auto Music Transcription
+- [AMT-Wavenet](https://github.com/lmartak/amt-wavenet): Auto Music Transcription
 
 ## Conferences
 ### Artificial Intelligence

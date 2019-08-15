@@ -1,5 +1,8 @@
 # Ethereum
 
+## Learning
+- [CryptoZombie](https://cryptozombies.io/jp/course): Larning solidity and others about dapps.
+
 ## Reference
 - [YellowPaper](https://ethereum.github.io/yellowpaper/paper.pdf) It's important to check the primary source.
 - [How does Ethereum work(medium)](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)

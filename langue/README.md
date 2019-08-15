@@ -7,7 +7,7 @@
 
 
 
-|English|Frencais|Italiano|
+|English|Francais|Italiano|
 |:---|:---|:---|
 |I am|Je suis|Yo soy|
 |You are|Tu es|

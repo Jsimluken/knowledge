@@ -1,6 +1,7 @@
-# WEB
+# WEB 
+- [Resource of redact, redux and ohers](https://github.com/markerikson/react-redux-links)
 
-## Redux
+# Redux
 
 ### Tutorial
 - [Redux(official)](https://redux.js.org/introduction/getting-started)

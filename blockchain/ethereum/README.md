@@ -12,6 +12,8 @@
 ### Wallet
 - [Golden Wallet](https://github.com/goldennetwork/golden-wallet-react-native) with React Native
 - [MetaMask](https://metamask.io/) Web extention!!
+### Library
+- [Dapparatus](https://github.com/austintgriffith/dapparatus)
 
 ## Dev tools
 - [Ganache](https://github.com/trufflesuite/ganache-cli)

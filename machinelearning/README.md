@@ -4,14 +4,13 @@
 - [dblp](https://dblp.org/) Useful searching article
 ## Category
 ### Object Detection
-#### Dataset
-#### Implementation
 - [M2Det](https://github.com/qijiezhao/M2Det): Not try yet.
 
 ### Face Recognition
-#### Implementation
 - [Facenet](https://github.com/nyoki-mtl/keras-facenet): It seems to work well without any error.
 
+### NLP
+- [Multi-Input Attention for Unsupervised OCR Correction](http://www.ccs.neu.edu/home/dongrui/ocr.html) ([Paper](http://www.ccs.neu.edu/home/dongrui/paper/acl_2018.pdf)) ([Github](https://github.com/Doreenruirui/ACL2018_Multi_Input_OCR))
 ### Music
 - [Wave-U-Net](https://github.com/f90/Wave-U-Net): Source Separation!!
 - [AMT-Wavenet](https://github.com/lmartak/amt-wavenet): Auto Music Transcription

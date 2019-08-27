@@ -43,3 +43,5 @@ Simulate Ethereum network!!
 ### Identity
 - [ERC725](https://github.com/ethereum/EIPs/issues/725): Proxy Account 
 - [ERC735](https://github.com/ethereum/EIPs/issues/735): Claim Holder
+#### Implementation
+- [ERC725 & ERC735](https://github.com/trustfractal/erc725)

@@ -11,7 +11,7 @@
 ## デーモンツール!!
 - [参考記事](https://hokaccha.hatenablog.com/entry/20110728/1311831416)
 
-##　電気回路
+## 電気回路
 - [電子回路](http://www.kairo-nyumon.com/electric_basic.html)
 
 

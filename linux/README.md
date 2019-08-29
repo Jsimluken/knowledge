@@ -8,3 +8,8 @@
 ssh-keygen -t rsa -b 4096
 # copy pub key to "authorized_keys" file
 ```
+## Tor!!
+```
+sudo apt install tor //for ubuntu
+sudo systemctl start tor //デフォルトのサービスに
+```

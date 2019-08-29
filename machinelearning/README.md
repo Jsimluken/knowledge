@@ -32,6 +32,7 @@
 #### Dataset
 - [FMA](https://arxiv.org/pdf/1612.01840.pdf) Maybe not score
 - [MusicNet](https://homes.cs.washington.edu/~thickstn/musicnet.html) 
+  - [midi instrument](http://www.ccarh.org/courses/253/handout/gminstruments/)
 - [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
 
 ## Conferences

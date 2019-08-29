@@ -10,4 +10,7 @@ sudo gem install cocoapods
 # Require ruby
 ```
 
-## Misc
+## React Native
+- [React Native](https://facebook.github.io/react-native/)
+- [React Native Element](https://react-native-training.github.io/react-native-elements/): UI Library
+- [react-native-modalbox](https://github.com/maxs15/react-native-modalbox)

@@ -29,6 +29,8 @@
 ### Music
 - [Wave-U-Net](https://github.com/f90/Wave-U-Net): Source Separation!!
 - [AMT-Wavenet](https://github.com/lmartak/amt-wavenet): Auto Music Transcription
+#### Dataset
+- [FMA](https://arxiv.org/pdf/1612.01840.pdf) Maybe not score
 
 ## Conferences
 ### Artificial Intelligence
@@ -41,6 +43,7 @@
 - ACL
 ### Misc
 - ISMIR
+  - [2018 Paper list](https://dblp.org/db/conf/ismir/ismir2018.html)
 
 # TO_DO
-Compare result and evaluate by some metrix!!
+Compare result and evaluate by some metrics!!

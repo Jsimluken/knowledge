@@ -12,6 +12,9 @@
 ### Face Recognition
 - [Facenet](https://github.com/nyoki-mtl/keras-facenet): It seems to work well without any error.
 
+### Image to image translation
+- [U-GAT-IT](https://arxiv.org/pdf/1907.10830v1.pdf)([github](https://github.com/znxlwm/UGATIT-pytorch))
+
 ### NLP
 - [Multi-Input Attention for Unsupervised OCR Correction](http://www.ccs.neu.edu/home/dongrui/ocr.html) ([Paper](http://www.ccs.neu.edu/home/dongrui/paper/acl_2018.pdf)) ([Github](https://github.com/Doreenruirui/ACL2018_Multi_Input_OCR))
 

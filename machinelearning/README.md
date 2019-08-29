@@ -31,6 +31,8 @@
 - [AMT-Wavenet](https://github.com/lmartak/amt-wavenet): Auto Music Transcription
 #### Dataset
 - [FMA](https://arxiv.org/pdf/1612.01840.pdf) Maybe not score
+- [MusicNet](https://homes.cs.washington.edu/~thickstn/musicnet.html) 
+- [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
 
 ## Conferences
 ### Artificial Intelligence

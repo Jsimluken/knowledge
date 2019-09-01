@@ -31,10 +31,12 @@
 - [Wave-U-Net](https://github.com/f90/Wave-U-Net): Source Separation!!
 - [AMT-Wavenet](https://github.com/lmartak/amt-wavenet): Auto Music Transcription
 #### Dataset
-- [FMA](https://arxiv.org/pdf/1612.01840.pdf) Maybe not score
+- [FMA](https://arxiv.org/pdf/1612.01840.pdf) Maybe not contain the score
 - [MusicNet](https://homes.cs.washington.edu/~thickstn/musicnet.html) 
   - [midi instrument](http://www.ccarh.org/courses/253/handout/gminstruments/)
-- [MAESTRO](https://magenta.tensorflow.org/datasets/maestro)
+- [MAESTRO](https://magenta.tensorflow.org/datasets/maestro): Too big!!
+- [MUSDB](https://sigsep.github.io/datasets/musdb.html)
+- [NSynth](https://magenta.tensorflow.org/datasets/nsynth#files)
 
 ## Conferences
 ### Artificial Intelligence

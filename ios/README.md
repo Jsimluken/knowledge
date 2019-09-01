@@ -19,8 +19,8 @@ sudo gem install cocoapods
 - [WebKit](https://developer.apple.com/documentation/webkit)
   - [参考 qiita](https://qiita.com/fromage-blanc/items/079bc8d6da34ac90fecf)
 - [AVFoundation](https://developer.apple.com/documentation/avfoundation)
-  -[Torial(Official)](https://developer.apple.com/documentation/avfoundation/cameras_and_media_capture/avcam_building_a_camera_app)
+  - [Tutorial(Official)](https://developer.apple.com/documentation/avfoundation/cameras_and_media_capture/avcam_building_a_camera_app)
 
 ## Library
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel):A clean and easy-to-use floating panel UI component for iOS
-  - [参考qiita](https://qiita.com/dotrikun/items/369f5c0730f444d97cf1)
+    - [参考qiita](https://qiita.com/dotrikun/items/369f5c0730f444d97cf1)

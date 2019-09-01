@@ -7,3 +7,6 @@
 ## Editor?
 - [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
     - [VS Code Awesome!!](https://github.com/viatsko/awesome-vscode)
+## PaaS
+- [Heroku](https://jp.heroku.com/)
+    - [Heroku複数アカウント(Qiita)](https://qiita.com/penta515/items/b95b1687b46cba4d8009)

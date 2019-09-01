@@ -15,9 +15,11 @@ sudo gem install cocoapods
 - [React Native Element](https://react-native-training.github.io/react-native-elements/): UI Library
 - [react-native-modalbox](https://github.com/maxs15/react-native-modalbox)
 
-## UI
-- WKWebView
+## Official API
+- [WebKit](https://developer.apple.com/documentation/webkit)
   - [参考 qiita](https://qiita.com/fromage-blanc/items/079bc8d6da34ac90fecf)
+- [AVFoundation](https://developer.apple.com/documentation/avfoundation)
+  -[Torial(Official)](https://developer.apple.com/documentation/avfoundation/cameras_and_media_capture/avcam_building_a_camera_app)
 
 ## Library
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel):A clean and easy-to-use floating panel UI component for iOS

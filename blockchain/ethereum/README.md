@@ -41,7 +41,8 @@ Simulate Ethereum network!!
 - ERC1523: Standard for Insurance Policies as ERC-721 Non Fungible Tokens
 - ERC1948: Non-fungible Data Token
 ### Identity
-- [ERC725](https://github.com/ethereum/EIPs/issues/725): Proxy Account 
+- [ERC725(v2)](https://github.com/ethereum/EIPs/issues/725): Proxy Account 
+- [ERC734](https://github.com/ethereum/EIPs/issues/734): Key Manager
 - [ERC735](https://github.com/ethereum/EIPs/issues/735): Claim Holder
 - [ERC780](https://github.com/ethereum/EIPs/issues/780): Ethereum Claims Registry
 #### Implementation

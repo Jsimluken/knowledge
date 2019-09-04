@@ -14,4 +14,7 @@
 ## 電気回路
 - [電子回路](http://www.kairo-nyumon.com/electric_basic.html)
 
+## Music
+  - [NSynth hardware!!](https://github.com/googlecreativelab/open-nsynth-super/)
+
 

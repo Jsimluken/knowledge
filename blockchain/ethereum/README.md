@@ -45,3 +45,4 @@ Simulate Ethereum network!!
 - [ERC735](https://github.com/ethereum/EIPs/issues/735): Claim Holder
 #### Implementation
 - [ERC725 & ERC735](https://github.com/trustfractal/erc725)
+- [Origin Protocol](https://github.com/OriginProtocol/origin-playground)

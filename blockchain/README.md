@@ -5,7 +5,13 @@
 ## Demo
 - [Awesome blockchain](https://anders.com/blockchain/)
 
-## List
-- [Bitcoin](./bitcoin/README.md)
-- [Ethereum](./ethereum/README.md)
+## Platform
+- [Bitcoin](./bitcoin/README.md) King of crypto currency
+- [Ethereum](./ethereum/README.md) King of Dapps platforms.
 - [Quorum](./quorum/README.md)
+
+## Consensus algorithm
+- PoW(Proof of Work)
+- PoS(Proof of Stake)
+- PoA
+- DPoS-BFT

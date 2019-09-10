@@ -2,7 +2,7 @@
 ## Useful website
 - [PaperWithCode](https://paperswithcode.com/sota): It helps us when checking SOTA.
 - [dblp](https://dblp.org/) Useful searching article
-## Category
+## Vision
 ### Object Detection
 - [Yolov3](https://github.com/qqwweee/keras-yolo3): Keras implementaion
 - [RetinaNet](https://github.com/fizyr/keras-retinanet)
@@ -23,14 +23,18 @@
 ### Image to image translation
 - [U-GAT-IT](https://arxiv.org/pdf/1907.10830v1.pdf)([github](https://github.com/znxlwm/UGATIT-pytorch))
 
-### NLP
+## NLP
 - [Multi-Input Attention for Unsupervised OCR Correction](http://www.ccs.neu.edu/home/dongrui/ocr.html) ([Paper](http://www.ccs.neu.edu/home/dongrui/paper/acl_2018.pdf)) ([Github](https://github.com/Doreenruirui/ACL2018_Multi_Input_OCR))
 
 - [GPT-2](https://github.com/openai/gpt-2)
-### Music
+### Tasks
+- SQuAD: Question and Answer
+- GLUE: contains 9 tasks
+## Music
 - [Wave-U-Net](https://github.com/f90/Wave-U-Net): Source Separation!!
 - [AMT-Wavenet](https://github.com/lmartak/amt-wavenet): Auto Music Transcription
-#### Dataset
+- [GANSynth](https://openreview.net/pdf?id=H1xQVn09FX): Synthesizer!!
+### Dataset
 - [FMA](https://arxiv.org/pdf/1612.01840.pdf) Maybe not contain the score
 - [MusicNet](https://homes.cs.washington.edu/~thickstn/musicnet.html) 
   - [midi instrument](http://www.ccarh.org/courses/253/handout/gminstruments/)

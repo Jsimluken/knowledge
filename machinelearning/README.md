@@ -19,6 +19,7 @@
 
 ### Face Recognition
 - [Facenet](https://github.com/nyoki-mtl/keras-facenet): It seems to work well without any error.
+  - [facenet on mobile(article)](https://medium.com/@tomdeore/facenet-on-mobile-cb6aebe38505)
 
 ### Image to image translation
 - [U-GAT-IT](https://arxiv.org/pdf/1907.10830v1.pdf)([github](https://github.com/znxlwm/UGATIT-pytorch))

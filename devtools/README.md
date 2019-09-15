@@ -11,6 +11,6 @@
 - [Heroku](https://jp.heroku.com/)
     - [Heroku複数アカウント(Qiita)](https://qiita.com/penta515/items/b95b1687b46cba4d8009)
 ## Virtual Environment
--  [Docker](https://www.docker.com/): ([MyTraining](./Training))
+-  [Docker](https://www.docker.com/): ([MyTraining](./Docker))
     - [Dockerhub](https://hub.docker.com/)
     - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker): ([How to install](https://github.com/nvidia/nvidia-docker/wiki/Installation-(version-2.0)))

@@ -8,7 +8,7 @@ Base imageをセットする
 ### ARG
 ビルド内で有効な変数
 
-'ARG USE_GPU=1'
+`ARG USE_GPU=1`
 ### RUN
 コマンド実行
 

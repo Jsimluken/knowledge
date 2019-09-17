@@ -5,6 +5,7 @@
 
 ## Reference
 - [YellowPaper](https://ethereum.github.io/yellowpaper/paper.pdf) It's important to check the primary source.
+- [Ethereum Wiki](https://github.com/ethereum/wiki/wiki)
 - [How does Ethereum work(medium)](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [EIP list](http://eips.ethereum.org/)
 

@@ -6,11 +6,12 @@
 
 ## Dev tools
 - [CocoaPod](https://cocoapods.org/)
+
 ```
 sudo gem install cocoapods
 # Require ruby
 ```
-
+- [XCode](https://developer.apple.com/download/more/) 任意のバージョン
 ## React Native
 - [React Native](https://facebook.github.io/react-native/)
 - [React Native Element](https://react-native-training.github.io/react-native-elements/): UI Library

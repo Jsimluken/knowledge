@@ -1,3 +1,5 @@
+## Bash shortcut
+- [blog](https://blog.ssdnodes.com/blog/cheatsheet-bash-shortcuts/)
 ## Change directory name to English from Japanese
  ```
  LANG=C xdg-user-dirs-gtk-update

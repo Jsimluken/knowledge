@@ -26,6 +26,7 @@ sudo gem install cocoapods
 ## Library
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel):A clean and easy-to-use floating panel UI component for iOS
     - [参考qiita](https://qiita.com/dotrikun/items/369f5c0730f444d97cf1)
+- [SwiftWeb3](https://github.com/matter-labs/web3swift): Web3 library for swift
 
 ## Implementation
 - [ARKit business card](https://github.com/vnovick/armonster-arkit2-businesscard)

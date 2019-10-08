@@ -30,6 +30,7 @@ Simulate Ethereum network!!
 - ERC902: Token Validation
 - ERC918: Mineable Token Standard
 - ERC998: ERC-998 Composable Non-Fungible Token Standard
+  - Tokenが別のTokenを保持できるようになる
 - ERC1047: Token Metadata JSON Schema
 - ERC1080: Recoverable Token
 - ERC1132: Extending ERC20 with token locking capability

@@ -48,7 +48,7 @@ Simulate Ethereum network!!
 - [ERC734](https://github.com/ethereum/EIPs/issues/734): Key Manager
 - [ERC735](https://github.com/ethereum/EIPs/issues/735): Claim Holder
 - [ERC780](https://github.com/ethereum/EIPs/issues/780): Ethereum Claims Registry
-- [ERC1078](https://eips.ethereum.org/EIPS/eip-1078)
+- [ERC1078](https://eips.ethereum.org/EIPS/eip-1078): Universal login / signup using ENS subdomains
 #### Implementation
 - [ERC725 & ERC735](https://github.com/trustfractal/erc725)
 - [Origin Protocol](https://github.com/OriginProtocol/origin-playground)

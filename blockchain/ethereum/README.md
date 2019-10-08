@@ -33,6 +33,8 @@ Simulate Ethereum network!!
 - ERC1047: Token Metadata JSON Schema
 - ERC1080: Recoverable Token
 - ERC1132: Extending ERC20 with token locking capability
+  - 時間でロック
+  - escrowに使えるかも
 - ERC1155: ERC-1155 Multi Token Standard
 - ERC1175: Wallet & shop standard for all tokens (erc20)
 - ERC1178: Multi-class Token Standard

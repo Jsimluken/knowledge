@@ -16,6 +16,9 @@
 - [Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lyu_Multi-Oriented_Scene_Text_CVPR_2018_paper.pdf)
 - [EAST: An Efficient and Accurate Scene Text Detector](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf)
 - [WordSup: Exploiting Word Annotations for Character based Text Detection](https://arxiv.org/pdf/1708.06720.pdf)
+#### Product
+- [NanoNets API](https://nanonets.com/ocr-api/)
+- [Textract(Amazon)](https://aws.amazon.com/jp/textract/)
 
 ### Face Recognition
 - [Facenet](https://github.com/nyoki-mtl/keras-facenet): It seems to work well without any error.

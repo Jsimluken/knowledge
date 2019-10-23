@@ -27,7 +27,7 @@
 - [Textract(Amazon)](https://aws.amazon.com/jp/textract/)
 
 ### Face Recognition
-- [Facenet](https://github.com/nyoki-mtl/keras-facenet): It seems to work well without any error.
+- Facenet [[tensorflow](https://github.com/davidsandberg/facenet)] [[keras](https://github.com/nyoki-mtl/keras-facenet)]
   - [facenet on mobile(article)](https://medium.com/@tomdeore/facenet-on-mobile-cb6aebe38505)
 
 ### Image to image translation

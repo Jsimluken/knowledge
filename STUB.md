@@ -17,4 +17,6 @@
 ## Music
   - [NSynth hardware!!](https://github.com/googlecreativelab/open-nsynth-super/)
 
+## IoT
+ - [Video streaming](http://enog.jp/wp-content/uploads/2017/05/enog44_sakurai.pdf)
 

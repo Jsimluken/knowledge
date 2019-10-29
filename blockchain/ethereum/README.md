@@ -1,7 +1,7 @@
 # Ethereum
 
 ## Learning
-- [CryptoZombie](https://cryptozombies.io/jp/course): Larning solidity and others about dapps.
+- [CryptoZombie](https://cryptozombies.io/jp/course): Learning solidity and others about dapps.
 
 ## Reference
 - [YellowPaper](https://ethereum.github.io/yellowpaper/paper.pdf) It's important to check the primary source.

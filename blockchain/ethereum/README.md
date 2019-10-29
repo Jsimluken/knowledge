@@ -9,11 +9,12 @@
 - [How does Ethereum work(medium)](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [EIP list](http://eips.ethereum.org/)
 
-## Implementation
-### Wallet
+
+## Wallet
 - [Golden Wallet](https://github.com/goldennetwork/golden-wallet-react-native) with React Native
 - [MetaMask](https://metamask.io/) Web extention!!
-### Library
+- [MultiSignatureWallet](https://github.com/gnosis/MultiSigWallet)
+## Library
 - [Dapparatus](https://github.com/austintgriffith/dapparatus)
 
 ## Dev tools

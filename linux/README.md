@@ -15,3 +15,7 @@ ssh-keygen -t rsa -b 4096
 sudo apt install tor //for ubuntu
 sudo systemctl start tor //デフォルトのサービスに
 ```
+## Check logs
+``` 
+journalctl -ex
+```

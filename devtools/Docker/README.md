@@ -14,5 +14,9 @@ Base imageをセットする
 コマンド実行
 
 `RUN apt install git`
+### VOLUME
+指定されたディレクトリにホストのディレクトリにマウント
+(マウント先は指定しないとDockerが用意したところにマウントされるらしい)
+`VOLUME /myvol`
 
 ### To be continued!!

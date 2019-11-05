@@ -20,7 +20,8 @@
   - Notary
     - Validate transaction
   - Oracle
-    - 外部サービスとの連携(株価とか)
+    - 外部サービスとの連携(株価とか
+  - UTXO採用
 - EOS.IO
 - NEO
 - NEM
@@ -41,3 +42,8 @@
 ## State Channel
 - Lightning(Bitcoin)
 - Raiden(Ethereum)
+  - Only for payment
+- SpankChain
+## Side Chain
+- Plasma(Ethereum)
+  - tree structure!!

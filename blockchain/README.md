@@ -13,7 +13,14 @@
   - PoW
 - [Ethereum](./ethereum/README.md) King of Dapps platforms.
 - [Quorum](./quorum/README.md)
-- Corda: [[Official page](https://www.corda.net/)]
+- Corda: Decentrized ledger [[Official page](https://www.corda.net/)]
+  - CorDapps
+    - Develop with JVM language
+    - Installed on the node not network.
+  - Notary
+    - Validate transaction
+  - Oracle
+    - 外部サービスとの連携(株価とか)
 - EOS.IO
 - NEO
 - NEM

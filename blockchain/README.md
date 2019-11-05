@@ -25,7 +25,7 @@
 - PoI(Proof of Importance)
 - PoA
 - DPoS-BFT
- - 人間界の政治みたい(選挙・投票)
+  - 人間界の政治みたい(選挙・投票)
 - Raft
   - [Doc](https://github.com/jpmorganchase/quorum/blob/master/docs/Consensus/raft.md)
 - Istanbul BFT

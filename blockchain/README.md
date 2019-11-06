@@ -15,8 +15,8 @@
 - [Quorum](./quorum/README.md)
 - Corda: Decentrized ledger [[Official page](https://www.corda.net/)]
   - CorDapps
-    - Develop with JVM language
-    - Installed on the node not network.
+    - Developed with JVM language
+    - Installed on the node, not network.
   - Notary
     - Validate transaction
   - Oracle
@@ -44,6 +44,11 @@
 - Raiden(Ethereum)
   - Only for payment
 - SpankChain
+  - [Maybe this is the implementation of state channel](https://github.com/SpankChain/virtual-channels/blob/master/contracts/LedgerChannel.sol)
+- Perun
+- FunFair
+- Celer Network
+- Counterfactual
 ## Side Chain
 - Plasma(Ethereum)
   - tree structure!!

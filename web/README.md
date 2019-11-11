@@ -1,5 +1,13 @@
 # WEB 
-- [Resource of redact, redux and ohers](https://github.com/markerikson/react-redux-links)
+- [Resource of react, redux and ohers](https://github.com/markerikson/react-redux-links)
+
+- ## nginx
+  - [Docker nginx+phpfpm](https://github.com/mochizukikotaro/docker-nginx-phpfpm)
+
+
+# Frameworks
+- Laravel
+- Flask
 
 # React
 ## Library

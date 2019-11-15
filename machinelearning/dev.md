@@ -1,2 +1,11 @@
 https://qiita.com/shu223/items/b4fc288f7c45d2504f7f
+
 https://qiita.com/tchkwkzk/items/26aa860fb170f354d524
+
+## TensorFlow Research Cloud
+- [TFRC 記事](https://github.com/karolmajek/tfrc)
+- [TFRC 記事2](https://qiita.com/YusukeSuzuki@github/items/85cf5f4a972ed46d0aa2)
+- [お申し込み](https://www.tensorflow.org/tfrc/)
+
+
+

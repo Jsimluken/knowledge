@@ -8,6 +8,9 @@
 - [PaperWithCode](https://paperswithcode.com/sota): It helps us when checking SOTA.
 - [dblp](https://dblp.org/) Useful searching article
 - [arxiv-vanity](https://www.arxiv-vanity.com) Arxiv pdf to html web page.
+## Misc
+- [Understanding Convolutional Neural Networks: Making a Handwritten Digit Calculator | Keras #5](https://www.youtube.com/watch?v=eyKwPyOqMg4): Visualizing how conv net works!
+
 ## Vision
 ### Object Detection
 - [Yolov3](https://github.com/qqwweee/keras-yolo3): Keras implementaion

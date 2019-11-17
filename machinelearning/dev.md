@@ -7,5 +7,13 @@ https://qiita.com/tchkwkzk/items/26aa860fb170f354d524
 - [TFRC 記事2](https://qiita.com/YusukeSuzuki@github/items/85cf5f4a972ed46d0aa2)
 - [お申し込み](https://www.tensorflow.org/tfrc/)
 
+## Google Colab
+- [colab tricks(github)](https://github.com/shawwn/colab-tricks)
+
+## Tensorflow
+- [Awesome tensorflow 2(github)](https://github.com/Amin-Tgz/awesome-tensorflow-2)
+- [tf2 cource(github)](https://github.com/ageron/tf2_course)
+
+
 
 

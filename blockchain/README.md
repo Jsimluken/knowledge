@@ -2,6 +2,9 @@
 
 [Top 50 Blockchain project on github](https://medium.com/solidity-weekly/top-50-blockchain-projects-with-the-most-developer-activity-on-github-aa714404a757)
 
+## Organization
+- [LayerX](https://layerx.co.jp/ja/)
+- [chaintope](https://www.chaintope.com/)
 ## Blog
 - [Gunosy](https://blockchain.gunosy.io/)
 

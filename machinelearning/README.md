@@ -12,6 +12,7 @@
 ## Misc
 - [Understanding Convolutional Neural Networks: Making a Handwritten Digit Calculator | Keras #5](https://www.youtube.com/watch?v=eyKwPyOqMg4): Visualizing how conv net works!
   - [Implementation](https://github.com/antaloaalonso/CNN-With-GUI)
+- [PySyft](https://github.com/OpenMined/PySyft): secure calclation for ML!!
 
 ## Vision
 ### Object Detection

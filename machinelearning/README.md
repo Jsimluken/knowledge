@@ -8,6 +8,7 @@
 - [PaperWithCode](https://paperswithcode.com/sota): It helps us when checking SOTA.
 - [dblp](https://dblp.org/) Useful searching article
 - [arxiv-vanity](https://www.arxiv-vanity.com) Arxiv pdf to html web page.
+- [Visualising activation function!!](https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/)
 ## Misc
 - [Understanding Convolutional Neural Networks: Making a Handwritten Digit Calculator | Keras #5](https://www.youtube.com/watch?v=eyKwPyOqMg4): Visualizing how conv net works!
   - [Implementation](https://github.com/antaloaalonso/CNN-With-GUI)

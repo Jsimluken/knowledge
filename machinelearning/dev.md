@@ -15,8 +15,9 @@ https://qiita.com/tchkwkzk/items/26aa860fb170f354d524
 - [Awesome tensorflow 2(github)](https://github.com/Amin-Tgz/awesome-tensorflow-2)
 - [tf2 cource(github)](https://github.com/ageron/tf2_course)
 - [qiita](https://qiita.com/koshian2/items/5029028fe6d01b243f44)
+- [DCGAN with tf2(qiita)](https://qiita.com/koshian2/items/78d92c41bd20cd9ef837)
 ## TFRecord
--[qiita!!](https://qiita.com/wasnot/items/9b64550237a3c5267bfd)
+- [qiita!!](https://qiita.com/wasnot/items/9b64550237a3c5267bfd)
 
 
 

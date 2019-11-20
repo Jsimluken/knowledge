@@ -15,6 +15,11 @@
 - [PySyft](https://github.com/OpenMined/PySyft): secure calclation for ML!!
 
 ## Vision
+### Super Resolution
+- [collection of super resolution](https://github.com/YapengTian/Single-Image-Super-Resolution)
+- [super resolution(Qiita)](https://qiita.com/jiny2001/items/e2175b52013bf655d617)
+### Inpainting
+- [Awesome image inpainting!!](https://github.com/1900zyh/Awesome-Image-Inpainting)
 ### Object Detection
 - [Yolov3](https://github.com/qqwweee/keras-yolo3): Keras implementaion
 - [RetinaNet](https://github.com/fizyr/keras-retinanet)

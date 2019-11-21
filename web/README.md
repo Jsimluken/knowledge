@@ -7,6 +7,8 @@
 # Browser Extentions
 ## Documentation
 - [Chrome extention](https://developer.chrome.com/extensions/devguide)
+## API
+- chrome.tabs.captureVisibleTab: Take a screenshot of tab!!
 ## Example
 - [tensorflowjs on extension](https://github.com/TakeshiOnishi/dehehe)
 - [screenshot](https://github.com/mrcoles/full-page-screen-capture-chrome-extension)

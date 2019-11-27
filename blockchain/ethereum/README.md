@@ -3,11 +3,12 @@
 ## Learning
 - [CryptoZombie](https://cryptozombies.io/jp/course): Learning solidity and others about dapps.
 
-## Reference
+## Resource
 - [YellowPaper](https://ethereum.github.io/yellowpaper/paper.pdf) It's important to check the primary source.
 - [Ethereum Wiki](https://github.com/ethereum/wiki/wiki)
 - [How does Ethereum work(medium)](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [EIP list](http://eips.ethereum.org/)
+- [Deconstructing solidity](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
 
 
 ## Wallet

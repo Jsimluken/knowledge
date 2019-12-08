@@ -7,6 +7,9 @@
 # Browser Extentions
 ## Documentation
 - [Chrome extention](https://developer.chrome.com/extensions/devguide)
+## dev tool
+- [Browserify](https://github.com/browserify/browserify)
+- [generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension)
 ## API
 - chrome.tabs.captureVisibleTab: Take a screenshot of tab!!
 ## Example

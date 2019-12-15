@@ -69,6 +69,8 @@
 - [MAESTRO](https://magenta.tensorflow.org/datasets/maestro): Too big!!
 - [MUSDB](https://sigsep.github.io/datasets/musdb.html)
 - [NSynth](https://magenta.tensorflow.org/datasets/nsynth#files)
+### Eval
+- [mir-eval](https://github.com/craffel/mir_eval)
 
 ## Conferences
 ### Artificial Intelligence

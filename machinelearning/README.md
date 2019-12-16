@@ -39,6 +39,7 @@
 - [Textract(Amazon)](https://aws.amazon.com/jp/textract/)
 
 ### Face Recognition
+- Survey [paper](https://arxiv.org/pdf/1804.06655v8.pdf)
 - Facenet [[tensorflow](https://github.com/davidsandberg/facenet)] [[keras](https://github.com/nyoki-mtl/keras-facenet)]
   - [facenet on mobile(article)](https://medium.com/@tomdeore/facenet-on-mobile-cb6aebe38505)
 

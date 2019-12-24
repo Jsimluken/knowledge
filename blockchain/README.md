@@ -17,13 +17,17 @@
 - [Ethereum](./ethereum/README.md) King of Dapps platforms.
 - [Quorum](./quorum/README.md)
 - Corda: Decentrized ledger [[Official page](https://www.corda.net/)]
-  - CorDapps
+  - CorDapps: This is the application can run on CordaPlatform
+    - Consists of three parts(I think...)
+    1. State
+    2. Flow
+    3. Contract: This is the validation rule
     - Developed with JVM language
     - Installed on the node, not network.
   - Notary
     - Validate transaction
   - Oracle
-    - 外部サービスとの連携(株価とか
+    - Service for coordination with external data
   - UTXO採用
 - EOS.IO
 - NEO

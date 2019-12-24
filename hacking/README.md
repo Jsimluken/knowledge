@@ -7,5 +7,7 @@ It seems to be interesting
 ## Reverse Engineering
 - [RE4B](https://github.com/DennisYurichev/RE-for-beginners)
 - [CRX extractor](https://crxextractor.com/): Chrome extention decompiler!!
+## Ethical Hacking 
+- [Zero to Hero(youtube)](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
 ## MISC
 - [ipwndfu](https://github.com/axi0mX/ipwndfu): Jailbreaking tool for iOS

@@ -44,7 +44,8 @@
   - [facenet on mobile(article)](https://medium.com/@tomdeore/facenet-on-mobile-cb6aebe38505)
 #### Dataset
 - [lfw](http://vis-www.cs.umass.edu/lfw/): for validation
-- [MegaFace](http://megaface.cs.washington.edu/)
+- [MegaFace](http://megaface.cs.washington.edu/):Mega
+- [AFAD](https://afad-dataset.github.io/):Asian dataset
 ### Image to image translation
 - [U-GAT-IT](https://arxiv.org/pdf/1907.10830v1.pdf)([github](https://github.com/znxlwm/UGATIT-pytorch))
 

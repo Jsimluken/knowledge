@@ -42,7 +42,9 @@
 - Survey [paper](https://arxiv.org/pdf/1804.06655v8.pdf)
 - Facenet [[tensorflow](https://github.com/davidsandberg/facenet)] [[keras](https://github.com/nyoki-mtl/keras-facenet)]
   - [facenet on mobile(article)](https://medium.com/@tomdeore/facenet-on-mobile-cb6aebe38505)
-
+#### Dataset
+- [lfw](http://vis-www.cs.umass.edu/lfw/): for validation
+- [MegaFace](http://megaface.cs.washington.edu/)
 ### Image to image translation
 - [U-GAT-IT](https://arxiv.org/pdf/1907.10830v1.pdf)([github](https://github.com/znxlwm/UGATIT-pytorch))
 

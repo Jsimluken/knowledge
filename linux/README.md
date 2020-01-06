@@ -13,11 +13,16 @@ ssh-keygen -t rsa -b 4096
 ## Tor!!
 ```
 sudo apt install tor //for ubuntu
-sudo systemctl start tor //デフォルトのサービスに
+sudo systemctl start tor //as default service
 ```
 ## Check logs
 ``` 
 journalctl -ex
+```
+
+## Tar
+```
+tar -Jxvf hyper.tar.xz //for *.tar.xz
 ```
 
 ## Systemd

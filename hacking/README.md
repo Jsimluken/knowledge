@@ -4,6 +4,9 @@
 ## CTF
 - [HackerOne](https://ctf.hacker101.com/ctf)
 It seems to be interesting
+## Wargames
+- [OverTheWire](https://overthewire.org/wargames/)
+- [ethernaut](https://solidity-05.ethernaut.openzeppelin.com/)
 ## Reverse Engineering
 - [RE4B](https://github.com/DennisYurichev/RE-for-beginners)
 - [CRX extractor](https://crxextractor.com/): Chrome extention decompiler!!

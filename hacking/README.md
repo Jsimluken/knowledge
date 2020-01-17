@@ -10,6 +10,7 @@ It seems to be interesting
 ## Reverse Engineering
 - [RE4B](https://github.com/DennisYurichev/RE-for-beginners)
 - [CRX extractor](https://crxextractor.com/): Chrome extention decompiler!!
+- [reverseengineering reading list](https://github.com/onethawt/reverseengineering-reading-list)
 ## Ethical Hacking 
 - [Zero to Hero(youtube)](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
 ## MISC

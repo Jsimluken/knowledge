@@ -4,6 +4,15 @@
  ```
  LANG=C xdg-user-dirs-gtk-update
  ```
+## List HDDs
+```
+lsblk
+```
+## Get UUID
+```
+blkid
+# Maybe it requires sudo
+```
 
 ## Generate ssh key
 ```

@@ -52,6 +52,7 @@
 ## NLP
 - [Topical Keyphrase Extraction with Hierarchical Semantic Networks](https://arxiv.org/pdf/1910.07848.pdf)
 - [GPT-2](https://github.com/openai/gpt-2)
+- [Reformer(paper)](https://arxiv.org/pdf/2001.04451v1.pdf)
 ### GEC(Grammar Error Correction)
 - [Multi-Input Attention for Unsupervised OCR Correction](http://www.ccs.neu.edu/home/dongrui/ocr.html) ([Paper](http://www.ccs.neu.edu/home/dongrui/paper/acl_2018.pdf)) ([Github](https://github.com/Doreenruirui/ACL2018_Multi_Input_OCR))
 - [A Nested Attention Neural Hybrid Model for Grammatical Error Correction](https://arxiv.org/pdf/1706.03762v5.pdf)([Unofficial github](https://github.com/shinochin/NANHM-for-GEC))

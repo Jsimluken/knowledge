@@ -5,4 +5,5 @@
 - whitepaper : 事業計画的な
 - yellow paper: 技術的な設計図
 - applied research: 応用研究
+- fool the discriminator: discriminatorを騙す(テクニカルタームなのにfoolが使われててびっくり)
 ## Misc

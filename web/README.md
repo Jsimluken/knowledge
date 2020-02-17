@@ -3,6 +3,11 @@
 
 - ## nginx
   - [Docker nginx+phpfpm](https://github.com/mochizukikotaro/docker-nginx-phpfpm)
+  
+# Web local storage
+- [indexedDB](https://developer.mozilla.org/ja/docs/Web/API/IndexedDB_API)
+- [WebStorage](https://developer.mozilla.org/ja/docs/Web/API/Web_Storage_API)
+
 
 # Browser Extentions
 ## Documentation

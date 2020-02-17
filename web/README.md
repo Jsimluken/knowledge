@@ -29,6 +29,9 @@
   - [Templates](https://github.com/mui-org/material-ui/tree/master/docs/src/pages/getting-started/templates)
 
 # Redux
+## Tool
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related)
+This is store state viewer!!
 
 ### Tutorial
 - [Redux(official)](https://redux.js.org/introduction/getting-started)

@@ -10,8 +10,14 @@
 - ### nginx
   - [Docker nginx+phpfpm](https://github.com/mochizukikotaro/docker-nginx-phpfpm)
 ## Backend
+- Laravel
+  - [Docker laravel](https://github.com/ucan-lab/docker-laravel)
+- Flask
 ## Frontend
 ### general
+### React
+#### Router
+- [React router v4](https://the2g.com/2789)
 
 
 
@@ -39,14 +45,9 @@
 - [Metamask!!](https://github.com/MetaMask/metamask-extension)
 
 
-# Frameworks
-- Laravel
-  - [Docker laraevl](https://github.com/ucan-lab/docker-laravel)
-- Flask
 
-# React
-## Router
-- [React router v4](https://the2g.com/2789)
+
+
 ## UI
 - [Material-UI](https://material-ui.com/)
   - [Templates](https://github.com/mui-org/material-ui/tree/master/docs/src/pages/getting-started/templates)

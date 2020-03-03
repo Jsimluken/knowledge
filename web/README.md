@@ -1,15 +1,31 @@
-# WEB 
+# Topic
+- [Server](#server)
+  - [nginx](#nginx)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Misc](#misc)
+
+
+## Server
+- ### nginx
+  - [Docker nginx+phpfpm](https://github.com/mochizukikotaro/docker-nginx-phpfpm)
+## Backend
+## Frontend
+### general
+
+
+
+
 - [Resource of react, redux and ohers](https://github.com/markerikson/react-redux-links)
 
-- ## nginx
-  - [Docker nginx+phpfpm](https://github.com/mochizukikotaro/docker-nginx-phpfpm)
+
   
-# Web local storage
+## Web local storage
 - [indexedDB](https://developer.mozilla.org/ja/docs/Web/API/IndexedDB_API)
 - [WebStorage](https://developer.mozilla.org/ja/docs/Web/API/Web_Storage_API)
 
 
-# Browser Extentions
+## Browser Extentions
 ## Documentation
 - [Chrome extention](https://developer.chrome.com/extensions/devguide)
 ## dev tool

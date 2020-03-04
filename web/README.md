@@ -8,8 +8,8 @@
 - [Misc](#misc)
 
 # Server
-## nginx
+## [nginx](https://www.nginx.com/)
 ## SSL
 -  [certbot](https://certbot.eff.org/)
 # Backend
-- ## [Django](https://www.djangoproject.com/)
+## [Django](https://www.djangoproject.com/)

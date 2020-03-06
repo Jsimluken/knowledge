@@ -17,5 +17,6 @@
 - [Tutorial: Django REST with React (Django 3 and a sprinkle of testing)](https://www.valentinog.com/blog/drf/)
 # Frontend
 ## React
+- [Re-ducksパターン：React + Redux のディレクトリ構成ベストプラクティス](https://noah.plus/blog/021/)
 ## [MATERIAL-UI](https://material-ui.com/)
 - [React Templates](https://material-ui.com/getting-started/templates/)

@@ -10,6 +10,7 @@
 
 # Server
 ## [nginx](https://www.nginx.com/)
+## [gunicorn](https://gunicorn.org/)
 ## SSL
 -  [certbot](https://certbot.eff.org/)
 # Backend

@@ -9,13 +9,16 @@
 - [Misc](#misc)
 
 # Server
-## [nginx](https://www.nginx.com/)
-## [gunicorn](https://gunicorn.org/)
+- ### [nginx](https://www.nginx.com/)
+- ### [gunicorn](https://gunicorn.org/)
 ## SSL
--  [certbot](https://certbot.eff.org/)
+- ### [certbot](https://certbot.eff.org/)
 # Backend
-## [Django](https://www.djangoproject.com/)
+- ### [Django](https://www.djangoproject.com/)
 - [Tutorial: Django REST with React (Django 3 and a sprinkle of testing)](https://www.valentinog.com/blog/drf/)
+## Auth
+- ### [passport](http://www.passportjs.org/)
+- ### [JsonWebToken](https://github.com/auth0/node-jsonwebtoken)
 # Frontend
 ## React
 - [Re-ducksパターン：React + Redux のディレクトリ構成ベストプラクティス](https://noah.plus/blog/021/)

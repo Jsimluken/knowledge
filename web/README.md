@@ -20,7 +20,9 @@
 - ### [passport](http://www.passportjs.org/)
 - ### [JsonWebToken](https://github.com/auth0/node-jsonwebtoken)
 # Frontend
-## React
+### React
 - [Re-ducksパターン：React + Redux のディレクトリ構成ベストプラクティス](https://noah.plus/blog/021/)
+## Router
+- ### [connected-react-router](https://github.com/supasate/connected-react-router)
 ## [MATERIAL-UI](https://material-ui.com/)
 - [React Templates](https://material-ui.com/getting-started/templates/)

@@ -22,6 +22,7 @@
 # Frontend
 ### React
 - [Re-ducksパターン：React + Redux のディレクトリ構成ベストプラクティス](https://noah.plus/blog/021/)
+- [react-passport-example](https://github.com/shouheiyamauchi/react-passport-example) - Auth application with React
 ## Router
 - ### [connected-react-router](https://github.com/supasate/connected-react-router)
 ## [MATERIAL-UI](https://material-ui.com/)

@@ -1,5 +1,13 @@
 # Docker!!
 
+# Tips
+- ## Access to the container with shell
+```
+doker exec -it <CONTAINER_NAME | CONTAINER_ID> /bin/sh
+```
+
+
+
 ## Mastering Dockerfile
 https://docs.docker.com/engine/reference/builder/
 ### FROM

@@ -1,11 +1,8 @@
-# Docker!!
-
 # Tips
 - ## Access to the container with shell
 ```
 doker exec -it <CONTAINER_NAME | CONTAINER_ID> /bin/sh
 ```
-
 
 
 ## Mastering Dockerfile

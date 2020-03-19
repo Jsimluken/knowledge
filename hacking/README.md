@@ -6,9 +6,9 @@
 It seems to be interesting
 ## Wargames
 - [OverTheWire](https://overthewire.org/wargames/)
-- [ethernaut](https://solidity-05.ethernaut.openzeppelin.com/)
+- [ethernaut](https://solidity-05.ethernaut.openzeppelin.com/) - eth contract war game
 ## Reverse Engineering
-- [RE4B](https://github.com/DennisYurichev/RE-for-beginners)
+- [RE4B](https://github.com/DennisYurichev/RE-for-beginners) - Beginer book!!
 - [CRX extractor](https://crxextractor.com/): Chrome extention decompiler!!
 - [reverseengineering reading list](https://github.com/onethawt/reverseengineering-reading-list)
 - [RE Course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)

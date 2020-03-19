@@ -13,6 +13,7 @@ It seems to be interesting
 - [reverseengineering reading list](https://github.com/onethawt/reverseengineering-reading-list)
 - [RE Course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 - [Nightmare](https://guyinatuxedo.github.io/) - binary exploitation 
+  - [github](https://github.com/guyinatuxedo/nightmare/)
 ## Ethical Hacking 
 - [Zero to Hero(youtube)](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
 ## MISC

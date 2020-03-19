@@ -12,6 +12,7 @@ It seems to be interesting
 - [CRX extractor](https://crxextractor.com/): Chrome extention decompiler!!
 - [reverseengineering reading list](https://github.com/onethawt/reverseengineering-reading-list)
 - [RE Course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
+- [Nightmare](https://guyinatuxedo.github.io/) - binary exploitation 
 ## Ethical Hacking 
 - [Zero to Hero(youtube)](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
 ## MISC

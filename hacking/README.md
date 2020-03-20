@@ -3,7 +3,7 @@
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 ## Practice
-- [HackerOne](https://ctf.hacker101.com/ctf) - CTF training
+- [hacker101](https://ctf.hacker101.com/ctf) - CTF training
 - [OverTheWire](https://overthewire.org/wargames/)
 - [Hack the box](https://www.hackthebox.eu/home)
 - [ethernaut](https://solidity-05.ethernaut.openzeppelin.com/) - eth contract war game

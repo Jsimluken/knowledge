@@ -30,7 +30,8 @@
   - [github](https://github.com/guyinatuxedo/nightmare/)
 ## Decompiler
 - [CRX extractor](https://crxextractor.com/) - Chrome extention decompiler!!
-- [dnSpy](https://github.com/0xd4d/dnSpy) - .Net decompiler (exe,dll)
+- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET decompiler (exe,dll)
+- [jd-gui](https://github.com/java-decompiler/jd-gui) - Java decompiler
 
 ## Practice
 - [PwnAdventure3](https://github.com/LiveOverflow/PwnAdventure3)

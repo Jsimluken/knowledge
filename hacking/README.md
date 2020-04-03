@@ -42,6 +42,7 @@
 - [Vulnhub](https://www.vulnhub.com/)
 - [Vulhub](https://vulhub.org/)
 - [CVE!!](https://cve.mitre.org/index.html)
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ## Youtube course
 - [Zero to Hero(youtube)](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)

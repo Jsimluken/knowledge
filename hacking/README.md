@@ -28,6 +28,7 @@
 - [RE Course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 - [Nightmare](https://guyinatuxedo.github.io/) - binary exploitation 
   - [github](https://github.com/guyinatuxedo/nightmare/)
+- [Mastering Reverse Engineering(book)](https://www.oreilly.com/library/view/mastering-reverse-engineering/9781788838849/)
 ## Decompiler
 - [CRX extractor](https://crxextractor.com/) - Chrome extention decompiler!!
 - [dnSpy](https://github.com/0xd4d/dnSpy) - .NET decompiler (exe,dll)

@@ -13,6 +13,7 @@
 # Web
 ## Material
 - [hacker101](https://ctf.hacker101.com/ctf) - CTF training
+- [CS253 Web Security](https://web.stanford.edu/class/cs253/) - Web security 
 
 ## Tool
 - [Burp Suit](https://portswigger.net/burp)

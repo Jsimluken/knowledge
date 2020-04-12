@@ -41,6 +41,7 @@
 # MISC
 - [ipwndfu](https://github.com/axi0mX/ipwndfu): Jailbreaking tool for iOS
 - [WebGoat](https://github.com/WebGoat/WebGoat)
+  - [WebGoat WriteUp](https://gitlab.com/BlackSheepSpicy/WebGoat)
 - [Vulnhub](https://www.vulnhub.com/)
 - [Vulhub](https://vulhub.org/)
 - [CVE!!](https://cve.mitre.org/index.html)
